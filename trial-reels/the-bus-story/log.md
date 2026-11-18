@@ -21,3 +21,6 @@ Naming: `The Bus Story - YYYY-MM-DD - Trial Reel N.mp4`. Never reuse a hook or a
 | 2026-11-17 | 1 | hook, sat up, slower | So… how did I end up here?! |
 | 2026-11-17 | 2 | hook, sat down, faster | How did I get on this stage?! |
 | 2026-11-17 | 3 | hook, warmer, slower | Still asking how I got here?! |
+| 2026-11-18 | 1 | hook, sat up, warmer | Wait, how did I get here?! |
+| 2026-11-18 | 2 | hook, sat down, warmer | How did I land on this stage?! |
+| 2026-11-18 | 3 | sat up, warmer, faster | (original hook kept) |
