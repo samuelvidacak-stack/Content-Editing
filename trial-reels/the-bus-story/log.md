@@ -24,3 +24,8 @@ Naming: `The Bus Story - YYYY-MM-DD - Trial Reel N.mp4`. Never reuse a hook or a
 | 2026-11-18 | 1 | hook, sat up, warmer | Wait, how did I get here?! |
 | 2026-11-18 | 2 | hook, sat down, warmer | How did I land on this stage?! |
 | 2026-11-18 | 3 | sat up, warmer, faster | (original hook kept) |
+| 2026-11-19 | 1 | sat up, warmer, slower | (original hook kept) |
+| 2026-11-19 | 2 | sat down, warmer, faster | (original hook kept) |
+| 2026-11-19 | 3 | sat down, warmer, slower | (original hook kept) |
+
+All 11 allowed combinations are now used. Waiting on the user: may combinations repeat as long as each reel gets a new hook?
